@@ -349,7 +349,7 @@
 		},
 		{	
 			"hook_id" : "lib/tweak_data/weapontweakdata",
-			"script_path" : "lua/albusnervaweaponoverhaul.lua.lua"
+			"script_path" : "lua/albusnervaweaponoverhaul.lua"
 		},
 		{  
 			"hook_id" : "lib/tweak_data/weapontweakdata",
