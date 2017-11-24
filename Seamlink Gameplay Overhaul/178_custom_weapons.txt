@@ -32,7 +32,7 @@ M40A5 > http://modwork.shop/17238
 SV 98 > http://modwork.shop/17621 
 FD338 > http://modwork.shop/17275 
 L115 > http://modwork.shop/17368 
-JNG > http://modwork.shop/17386 
+JNG > http://modwork.shop/17386 (?-CVE)
 McMillan TAC-50 > http://modwork.shop/18573
 FY-JS > http://modwork.shop/18589
 Uni Barret > http://modwork.shop/18091 (now functional)

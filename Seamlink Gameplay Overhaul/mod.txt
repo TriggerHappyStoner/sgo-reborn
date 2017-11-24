@@ -11,7 +11,7 @@
 	"updates" : [
 		{
 			"revision" : 1,
-			"identifier" : "SGO",
+			"identifier" : "SGO"
 		}
 	],
 	"libraries": [

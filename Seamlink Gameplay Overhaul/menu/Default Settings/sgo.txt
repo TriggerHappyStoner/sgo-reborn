@@ -9,11 +9,11 @@
 			"type" : "button",
 			"id" : "sgo_options_menul",
 			"title" : "sgo_options_menul_title",
-			"description" : "sgo_options_menul_desc",
+			"description" : "sgo_options_menul_desc"
 		},
 		{
 			"type" : "divider",
-			"size" : 7,
+			"size" : 7
 		},
 		{
 			"type" : "slider",
@@ -25,7 +25,7 @@
 			"min" : 0.15,
 			"max" : 0.40,
 			"step" : 0.05,
-			"default_value" : 0.35,
+			"default_value" : 0.35
 		},
 		{
 			"type" : "slider",
@@ -37,21 +37,21 @@
 			"min" : 2,
 			"max" : 10,
 			"step" : 1,
-			"default_value" : 5,
+			"default_value" : 5
 		},
 		{
 			"type" : "divider",
-			"size" : 7,
+			"size" : 7
 		},
 		{
 			"type" : "button",
 			"id" : "sgo_options_menud",
 			"title" : "sgo_options_menud_title",
-			"description" : "sgo_options_menud_desc",
+			"description" : "sgo_options_menud_desc"
 		},
 		{
 			"type" : "divider",
-			"size" : 7,
+			"size" : 7
 		},
 		{
 			"type" : "slider",
@@ -63,7 +63,7 @@
 			"min" : 0.0,
 			"max" : 1,
 			"step" : 0.05,
-			"default_value" : 0.50,
+			"default_value" : 0.50
 		},
 		{
 			"type" : "slider",
@@ -75,11 +75,11 @@
 			"min" : 0.90,
 			"max" : 1.10,
 			"step" : 0.05,
-			"default_value" : 1.10,
+			"default_value" : 1.10
 		},
 		{
 			"type" : "divider",
-			"size" : 4,
+			"size" : 4
 		},
 		{
 			"type" : "multiple_choice",
@@ -94,21 +94,21 @@
 				"sgo_options_enable_screw_choice4"
 			],
 			"value" : "use_screw",
-			"default_value" : 2,
+			"default_value" : 2
 		},
 		{
 			"type" : "divider",
-			"size" : 7,
+			"size" : 7
 		},
 		{
 			"type" : "button",
 			"id" : "sgo_options_menuw",
 			"title" : "sgo_options_menuw_title",
-			"description" : "sgo_options_menuw_desc",
+			"description" : "sgo_options_menuw_desc"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "multiple_choice",
@@ -123,7 +123,7 @@
 				"sgo_options_enable_tweako_choice5"
 			],
 			"value" : "use_tweako",
-			"default_value" : 2,
+			"default_value" : 2
 		},
 		{
 			"type" : "toggle",
@@ -131,7 +131,7 @@
 			"title" : "sgo_options_enable_ramm",
 			"description" : "sgo_options_enable_ramm_desc",
 			"callback" : "SGO_enable_ramm",
-			"value" : "use_ramm",
+			"value" : "use_ramm"
 		},
 		{
 			"type" : "toggle",
@@ -139,7 +139,7 @@
 			"title" : "sgo_options_enable_burst",
 			"description" : "sgo_options_enable_burst_desc",
 			"callback" : "SGO_enable_burst",
-			"value" : "use_burst",
+			"value" : "use_burst"
 		},
 		{
 			"type" : "toggle",
@@ -147,7 +147,7 @@
 			"title" : "sgo_options_enable_melee",
 			"description" : "sgo_options_enable_melee_desc",
 			"callback" : "SGO_enable_melee",
-			"value" : "use_melee",
+			"value" : "use_melee"
 		},
 		{
 			"type" : "toggle",
@@ -155,7 +155,7 @@
 			"title" : "sgo_options_enable_boom",
 			"description" : "sgo_options_enable_boom_desc",
 			"callback" : "SGO_enable_boom",
-			"value" : "use_boom",
+			"value" : "use_boom"
 		},
 		{
 			"type" : "toggle",
@@ -163,7 +163,7 @@
 			"title" : "sgo_options_enable_baws",
 			"description" : "sgo_options_enable_baws_desc",
 			"callback" : "SGO_enable_baws",
-			"value" : "use_baws",
+			"value" : "use_baws"
 		},
 		{
 			"type" : "toggle",
@@ -171,7 +171,7 @@
 			"title" : "sgo_options_enable_lmgs2",
 			"description" : "sgo_options_enable_lmgs2_desc",
 			"callback" : "SGO_enable_lmgs2",
-			"value" : "use_lmgs2",
+			"value" : "use_lmgs2"
 		},
 		{
 			"type" : "toggle",
@@ -179,7 +179,7 @@
 			"title" : "sgo_options_enable_bolt",
 			"description" : "sgo_options_enable_bolt_desc",
 			"callback" : "SGO_enable_bolt",
-			"value" : "use_bolt",
+			"value" : "use_bolt"
 		},
 		{
 			"type" : "toggle",
@@ -187,31 +187,31 @@
 			"title" : "sgo_options_enable_snipa",
 			"description" : "sgo_options_enable_snipa_desc",
 			"callback" : "SGO_enable_snipa",
-			"value" : "use_snipa",
+			"value" : "use_snipa"
 		},
 		{
 			"type" : "divider",
-			"size" : 7,
+			"size" : 7
 		},
 		{
 			"type" : "button",
 			"id" : "sgo_options_menusc",
 			"title" : "sgo_options_menusc_title",
-			"description" : "sgo_options_menusc_desc",
+			"description" : "sgo_options_menusc_desc"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "button",
 			"id" : "sgo_options_menup",
 			"title" : "sgo_options_menup_title",
-			"description" : "sgo_options_menup_desc",
+			"description" : "sgo_options_menup_desc"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "toggle",
@@ -219,7 +219,7 @@
 			"title" : "sgo_options_enable_indo",
 			"description" : "sgo_options_enable_indo_desc",
 			"callback" : "SGO_enable_indo",
-			"value" : "use_indo",
+			"value" : "use_indo"
 		},
 		{
 			"type" : "multiple_choice",
@@ -232,7 +232,7 @@
 				"sgo_options_enable_prom_choice2"
 			],
 			"value" : "use_prom",
-			"default_value" : 1,
+			"default_value" : 1
 		},
 		{
 			"type" : "slider",
@@ -244,7 +244,7 @@
 			"min" : 1,
 			"max" : 5,
 			"step" : 1,
-			"default_value" : 3,
+			"default_value" : 3
 		},
 		{
 			"type" : "toggle",
@@ -252,7 +252,7 @@
 			"title" : "sgo_options_enable_insp",
 			"description" : "sgo_options_enable_insp_desc",
 			"callback" : "SGO_enable_insp",
-			"value" : "use_insp",
+			"value" : "use_insp"
 		},
 		{
 			"type" : "toggle",
@@ -260,7 +260,7 @@
 			"title" : "sgo_options_enable_hefty",
 			"description" : "sgo_options_enable_hefty_desc",
 			"callback" : "SGO_enable_hefty",
-			"value" : "use_hefty",
+			"value" : "use_hefty"
 		},
 		{
 			"type" : "toggle",
@@ -268,7 +268,7 @@
 			"title" : "sgo_options_enable_sprinty",
 			"description" : "sgo_options_enable_sprinty_desc",
 			"callback" : "SGO_enable_sprinty",
-			"value" : "use_sprinty",
+			"value" : "use_sprinty"
 		},
 		{
 			"type" : "toggle",
@@ -276,7 +276,7 @@
 			"title" : "sgo_options_enable_run",
 			"description" : "sgo_options_enable_run_desc",
 			"callback" : "SGO_enable_run",
-			"value" : "use_run",
+			"value" : "use_run"
 		},
 		{
 			"type" : "toggle",
@@ -284,7 +284,7 @@
 			"title" : "sgo_options_enable_perkb",
 			"description" : "sgo_options_enable_perkb_desc",
 			"callback" : "SGO_enable_perkb",
-			"value" : "use_perkb",
+			"value" : "use_perkb"
 		},
 		{
 			"type" : "toggle",
@@ -292,7 +292,7 @@
 			"title" : "sgo_options_enable_perka",
 			"description" : "sgo_options_enable_perka_desc",
 			"callback" : "SGO_enable_perka",
-			"value" : "use_perka",
+			"value" : "use_perka"
 		},
 		{
 			"type" : "toggle",
@@ -300,21 +300,21 @@
 			"title" : "sgo_options_enable_incap",
 			"description" : "sgo_options_enable_incap_desc",
 			"callback" : "SGO_enable_incap",
-			"value" : "use_incap",
+			"value" : "use_incap"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "button",
 			"id" : "sgo_options_menuh",
 			"title" : "sgo_options_menuh_title",
-			"description" : "sgo_options_menuh_desc",
+			"description" : "sgo_options_menuh_desc"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "toggle",
@@ -322,7 +322,7 @@
 			"title" : "sgo_options_enable_drive",
 			"description" : "sgo_options_enable_drive_desc",
 			"callback" : "SGO_enable_drive",
-			"value" : "use_drive",
+			"value" : "use_drive"
 		},
 		{
 			"type" : "toggle",
@@ -330,7 +330,7 @@
 			"title" : "sgo_options_enable_skip",
 			"description" : "sgo_options_enable_skip_desc",
 			"callback" : "SGO_enable_skip",
-			"value" : "use_skip",
+			"value" : "use_skip"
 		},
 		{
 			"type" : "toggle",
@@ -338,7 +338,7 @@
 			"title" : "sgo_options_enable_asset",
 			"description" : "sgo_options_enable_asset_desc",
 			"callback" : "SGO_enable_asset",
-			"value" : "use_asset",
+			"value" : "use_asset"
 		},
 		{
 			"type" : "toggle",
@@ -346,7 +346,7 @@
 			"title" : "sgo_options_enable_dcot",
 			"description" : "sgo_options_enable_dcot_desc",
 			"callback" : "SGO_enable_dcot",
-			"value" : "use_dcot",
+			"value" : "use_dcot"
 		},
 		{
 			"type" : "toggle",
@@ -354,7 +354,7 @@
 			"title" : "sgo_options_enable_hold",
 			"description" : "sgo_options_enable_hold_desc",
 			"callback" : "SGO_enable_hold",
-			"value" : "use_hold",
+			"value" : "use_hold"
 		},
 		{
 			"type" : "toggle",
@@ -362,7 +362,7 @@
 			"title" : "sgo_options_enable_kill",
 			"description" : "sgo_options_enable_kill_desc",
 			"callback" : "SGO_enable_kill",
-			"value" : "use_kill",
+			"value" : "use_kill"
 		},
 		{
 			"type" : "toggle",
@@ -370,21 +370,21 @@
 			"title" : "sgo_options_enable_stci",
 			"description" : "sgo_options_enable_stci_desc",
 			"callback" : "SGO_enable_stci",
-			"value" : "use_stci",
+			"value" : "use_stci"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "button",
 			"id" : "sgo_options_menui",
 			"title" : "sgo_options_menui_title",
-			"description" : "sgo_options_menui_desc",
+			"description" : "sgo_options_menui_desc"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "toggle",
@@ -392,7 +392,7 @@
 			"title" : "sgo_options_enable_inva",
 			"description" : "sgo_options_enable_inva_desc",
 			"callback" : "SGO_enable_inva",
-			"value" : "use_inva",
+			"value" : "use_inva"
 		},
 		{
 			"type" : "toggle",
@@ -400,7 +400,7 @@
 			"title" : "sgo_options_enable_skco",
 			"description" : "sgo_options_enable_skco_desc",
 			"callback" : "SGO_enable_skco",
-			"value" : "use_skco",
+			"value" : "use_skco"
 		},
 		{
 			"type" : "toggle",
@@ -408,7 +408,7 @@
 			"title" : "sgo_options_enable_nofa",
 			"description" : "sgo_options_enable_nofa_desc",
 			"callback" : "SGO_enable_nofa",
-			"value" : "use_nofa",
+			"value" : "use_nofa"
 		},
 		{
 			"type" : "toggle",
@@ -416,7 +416,7 @@
 			"title" : "sgo_options_enable_invt",
 			"description" : "sgo_options_enable_invt_desc",
 			"callback" : "SGO_enable_invt",
-			"value" : "use_invt",
+			"value" : "use_invt"
 		},
 		{
 			"type" : "toggle",
@@ -424,21 +424,21 @@
 			"title" : "sgo_options_enable_slot",
 			"description" : "sgo_options_enable_slot_desc",
 			"callback" : "SGO_enable_slot",
-			"value" : "use_slot",
+			"value" : "use_slot"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "button",
 			"id" : "sgo_options_menua",
 			"title" : "sgo_options_menua_title",
-			"description" : "sgo_options_menua_desc",
+			"description" : "sgo_options_menua_desc"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "toggle",
@@ -446,7 +446,7 @@
 			"title" : "sgo_options_enable_mobj",
 			"description" : "sgo_options_enable_mobj_desc",
 			"callback" : "SGO_enable_mobj",
-			"value" : "use_mobj",
+			"value" : "use_mobj"
 		},
 		{
 			"type" : "toggle",
@@ -454,7 +454,7 @@
 			"title" : "sgo_options_enable_sounds",
 			"description" : "sgo_options_enable_sounds_desc",
 			"callback" : "SGO_enable_sounds",
-			"value" : "use_sounds",
+			"value" : "use_sounds"
 		},
 		{
 			"type" : "toggle",
@@ -462,7 +462,7 @@
 			"title" : "sgo_options_enable_anims",
 			"description" : "sgo_options_enable_anims_desc",
 			"callback" : "SGO_enable_anims",
-			"value" : "use_anims",
+			"value" : "use_anims"
 		},
 		{
 			"type" : "toggle",
@@ -470,35 +470,35 @@
 			"title" : "sgo_options_enable_decap",
 			"description" : "sgo_options_enable_decap_desc",
 			"callback" : "SGO_enable_decap",
-			"value" : "use_decap",
+			"value" : "use_decap"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "button",
 			"id" : "sgo_options_menue",
 			"title" : "sgo_options_menue_title",
-			"description" : "sgo_options_menue_desc",
+			"description" : "sgo_options_menue_desc"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "button",
 			"id" : "sgo_options_menums",
 			"title" : "sgo_options_menums_title",
-			"description" : "sgo_options_menums_desc",
+			"description" : "sgo_options_menums_desc"
 		},
 		{
 			"type" : "divider",
-			"size" : 10,
+			"size" : 10
 		},
 		{
 			"type" : "toggle",
@@ -506,7 +506,7 @@
 			"title" : "sgo_options_enable_cook",
 			"description" : "sgo_options_enable_cook_desc",
 			"callback" : "SGO_enable_cook",
-			"value" : "use_cook",
+			"value" : "use_cook"
 		},
 		{
 			"type" : "toggle",
@@ -514,7 +514,7 @@
 			"title" : "sgo_options_enable_chat",
 			"description" : "sgo_options_enable_chat_desc",
 			"callback" : "SGO_enable_chat",
-			"value" : "use_chat",
+			"value" : "use_chat"
 		}
 	]
 }

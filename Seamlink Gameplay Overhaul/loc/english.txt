@@ -183,5 +183,5 @@
 	"sgo_options_enable_prom_choice2"  : "NOT AVAILABLE",
 	
 	"sgo_options_enable_lmgs2" : "LMG Sights by Iron Predator + Overhaul",
-	"sgo_options_enable_lmgs2_desc"  : "This gives you the ability to add sights to LMGs, deploy Bipod anywhere and turn 360 with it",
+	"sgo_options_enable_lmgs2_desc"  : "This gives you the ability to add sights to LMGs, deploy Bipod anywhere and turn 360 with it"
 }
